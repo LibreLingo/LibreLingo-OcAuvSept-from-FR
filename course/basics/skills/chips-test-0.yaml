@@ -23,9 +23,15 @@ Mini-dictionary:
     - quo: ça
     - vas: tu vas
     - te: tu/toi
+    - annuèit: aujourd\'hui
 
   Français:
-    - Comment: Coma
+    - Comment:
+      - Coma
+      - \'Ma
+    - va: vai
+    - tu: te
+    - toi: te
     - tu vas: vas
     - ça: quo
-    - ajourd'hui: annuèit
+    - aujourd\'hui: annuèit
