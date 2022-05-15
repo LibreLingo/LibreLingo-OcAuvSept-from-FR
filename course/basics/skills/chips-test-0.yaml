@@ -3,15 +3,15 @@ Skill:
   Id: chips-test-0
 
 Phrases:
-  - Translation: Comment ça va aujourd'hui ?
-    Phrase: Coma quo vai annuèit ?
+  - Translation: Comment ça va aujourd'hui
+    Phrase: Coma quo vai annuèit
     Alternative versions:
-      - \'Ma quo vai annuèit ?
+      - \'Ma quo vai annuèit
 
-  - Translation: Comment tu vas aujourd'hui ?
-    Phrase: Coma vas annuèit ?
+  - Translation: Comment tu vas aujourd'hui
+    Phrase: Coma vas annuèit
     Alternative versions:
-      - \'Ma vas annuèit ?
+      - \'Ma vas annuèit
 
 New words: []
 
