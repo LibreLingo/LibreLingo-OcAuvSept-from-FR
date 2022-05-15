@@ -16,7 +16,7 @@ Phrases:
 New words: []
 
 Mini-dictionary:
-  Test Language:
+  Occitan Bas-Auvergnat:
     - Coma: Comment
     - \'Ma: Comment
     - vai: va (aller)
@@ -24,8 +24,8 @@ Mini-dictionary:
     - vas: tu vas
     - te: tu/toi
 
-  English:
+  Français:
     - Comment: Coma
-    - vas: tu vas
-    - quo: ça
+    - tu vas: vas
+    - ça: quo
     - ajourd'hui: annuèit
