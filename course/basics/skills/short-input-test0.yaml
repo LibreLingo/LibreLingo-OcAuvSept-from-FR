@@ -3,18 +3,16 @@ Skill:
   Id: asdsdasdasd
 
 Phrases:
-  - Phrase: perro
-    Translation: dog
+  - Phrase: chin
+    Translation: chien
 
 New words:
-  - Word: perro
+  - Word: chin
     Synonyms:
-      - el can
-      - can
-      - el perro
-    Translation: the dog
+      - le chin
+    Translation: le chien
     Also accepted:
-      - dog
+      - chien
     Images:
       - dog1
       - dog2
