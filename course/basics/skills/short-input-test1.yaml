@@ -5,8 +5,8 @@ Skill:
 Phrases: []
 
 New words:
-  - Word: foo
-    Translation: la leche
+  - Word: lait
+    Translation: le lait
     Images:
       - milk1
       - milk2
@@ -14,7 +14,7 @@ New words:
 
 
 Mini-dictionary:
-  English:
-    - la: the
-    - leche: foo
-  Test Language: []
+  Français:
+    - le: le
+    - lait: lait
+  Occitan Bas-Auvergnat: []
