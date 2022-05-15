@@ -21,7 +21,9 @@ Mini-dictionary:
     - \'Ma: Comment
     - vai: va (aller)
     - quo: ça
-    - vas: tu vas
+    - vas:
+      - vas
+      - tu vas
     - te: tu/toi
     - annuèit: aujourd\'hui
 
@@ -33,5 +35,6 @@ Mini-dictionary:
     - tu: te
     - toi: te
     - tu vas: vas
+    - vas: vas
     - ça: quo
     - aujourd'hui: annuèit
