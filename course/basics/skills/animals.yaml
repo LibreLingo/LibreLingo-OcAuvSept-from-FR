@@ -105,13 +105,27 @@ Phrases:
 Mini-dictionary:
   Occitan Bas-Auvergnat:
     - un: un
-    - es: est
+    - es:
+      - est
+      - il est
     - Toinon: Antoine
     - e: et
     - brave: bon (gentil)
-    - Quo-es: C'est
+    - Quo-es: C\'est
+    - le: le
+    - la: la
+    - na: une
+    - una: une
+    - ton: ton
+    - ta: ta
+    - manjar: repas
+    - espartin: repas
+    - \'spartin: repas
+    - pan: pain
+    
 
   Français:
+    - bon (gentil): brave
     - le: le
     - la: la
     - c'est: quo-es
@@ -119,10 +133,10 @@ Mini-dictionary:
     - une:
       - na
       - una
-    - Toinon: Antoine
+    - Antoine: Toinon
     - est: es
+    - il est: es
     - et: e
-    - enjoy: disfruta
     - ton: ton
     - ta: ta
     - repas:
